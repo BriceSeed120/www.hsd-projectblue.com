@@ -12,29 +12,11 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.html" class="active">Accueil</a></li>
-          <li><a href="about.html">A propos</a></li>
-          <li><a href="services.html">NOS FORMATIONS</a></li>
-          <li><a href="projects.html">NOS CLIENTS</a></li>
-          <li><a href="blog.html">CONTACT</a></li>
-          {{-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-            <ul>
-              <li><a href="#">Dropdown 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-                <ul>
-                  <li><a href="#">Deep Dropdown 1</a></li>
-                  <li><a href="#">Deep Dropdown 2</a></li>
-                  <li><a href="#">Deep Dropdown 3</a></li>
-                  <li><a href="#">Deep Dropdown 4</a></li>
-                  <li><a href="#">Deep Dropdown 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Dropdown 2</a></li>
-              <li><a href="#">Dropdown 3</a></li>
-              <li><a href="#">Dropdown 4</a></li>
-            </ul>
-          </li> --}}
-          {{-- <li><a href="contact.html">Contact</a></li> --}}
+          <li><a href="#index" class="active">Accueil</a></li>
+          <li><a href="#about">A propos</a></li>
+          <li><a href="#services">NOS FORMATIONS</a></li>
+          <li><a href="#clients">NOS CLIENTS</a></li>
+          <li><a href="#contact">CONTACT</a></li>
         </ul>
       </nav><!-- .navbar -->
 
