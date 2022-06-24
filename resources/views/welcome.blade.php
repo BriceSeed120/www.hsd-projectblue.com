@@ -8,7 +8,7 @@
   
           <div class="row position-relative">
   
-            <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.jpg);"></div>
+            <div class="col-lg-7 about-img" style="background-image: url(assets/img/about.png);"></div>
   
             <div class="col-lg-7">
               <h2>HSD PROJECTBLUE, Institut de formation agréé en Afrique.            </h2>
