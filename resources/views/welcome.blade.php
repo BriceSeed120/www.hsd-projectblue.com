@@ -1,8 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-      <!-- End About Section -->
-    <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container" data-aos="fade-up">
   
@@ -28,14 +26,11 @@
   
         </div>
       </section>
-      <!-- End About Section -->
-      <!-- ======= Constructions Section ======= -->
     <section id="constructions" class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
           <h2>Nos Solutions</h2>
-          {{-- <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p> --}}
         </div>
 
         <div class="row gy-4">
@@ -54,7 +49,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="card-item">
@@ -71,7 +66,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="card-item">
@@ -88,7 +83,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card-item">
@@ -105,7 +100,7 @@
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="card-item">
               <div class="row">
@@ -122,13 +117,12 @@
                 </div>
               </div>
             </div>
-          </div><!-- End Card Item -->
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Constructions Section -->
-    <!-- ======= Alt Services Section ======= -->
+    </section>
     <section id="alt-services" class="alt-services">
       <div class="container" data-aos="fade-up">
 
@@ -137,8 +131,6 @@
 
           <div class="col-lg-5 d-flex flex-column justify-content-center">
             <h3>AVANTAGES</h3>
-            {{-- <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi</p> --}}
-
             <ul style="">
               <li ><i class="bi bi-check-circle"></i> <span>Des formateurs experts dans leurs domaines</span></li>
               <li><i class="bi bi-check-circle"></i> <span>Un large réseau de formateurs certifiés</span></li>
@@ -152,13 +144,11 @@
         </div>
 
       </div>
-    </section><!-- End Alt Services Section -->
-    <!-- ======= Services Section ======= -->
+    </section>
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Nos Formations</h2>
-          {{-- <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p> --}}
         </div>
 
         <div class="row gy-4">
@@ -174,17 +164,14 @@
                 renforçant les compétences des employés sur les notions de
                 secourisme, lutte incendie, gestion des produits dangereux,
                 gestion crise sanitaire, etc.</p>
-                {{-- Call to undefined function link_to_asset() (View: D:\Seed120\HSD\ProjectBlue\Website\www.hsd-projectblue.com\resources\views\welcome.blade.php) --}}
               <a href="url(assets/files/file.pdf)" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
-              {{-- <embed src="url(assets/files/file.pdf)" type=""> --}}
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="service-item position-relative">
               <div class="icon">
                 <i class="fa-solid fa-cart-shopping"></i>
-                {{-- <i class="fa-solid fa-arrow-up-from-ground-water"></i> --}}
               </div>
               <h3>Formations Commerciales</h3>
               <p>La formation commerciale peut intégrer des sujets techniques
@@ -194,7 +181,7 @@
                 commerciale.</p>
               <a href="url(asset('files/Catalogue Formation HSD - ProjectBlue 2022 - Original.pdf'))" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="service-item position-relative">
@@ -210,7 +197,7 @@
                 générations différentes. </p>
               <a href="url(asset('files/Catalogue Formation HSD - ProjectBlue 2022 - Original.pdf'))" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="service-item position-relative">
@@ -223,7 +210,7 @@
                 objectifs fixés par l’entreprise.</p>
               <a href="url(asset('files/Catalogue Formation HSD - ProjectBlue 2022 - Original.pdf'))" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="service-item position-relative">
@@ -237,7 +224,7 @@
                 fructueuses et obtenir les meilleures prestations à moindre coût.</p>
               <a href="url(asset('files/Catalogue Formation HSD - ProjectBlue 2022 - Original.pdf'))" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
             <div class="service-item position-relative">
@@ -251,10 +238,240 @@
                 la comptabilité</p>
               <a href="url(asset('files/Catalogue Formation HSD - ProjectBlue 2022 - Original.pdf'))" class="readmore stretched-link">En savoir plus <i class="bi bi-arrow-right"></i></a>
             </div>
-          </div><!-- End Service Item -->
+          </div>
 
         </div>
 
       </div>
-    </section><!-- End Services Section -->
+    </section>
+        <!-- ======= Clients Section ======= -->
+        <section id="clients" class="clients">
+          <div class="container">
+            <div class="section-header">
+              <h2>Nos Clients</h2>
+            </div>
+    
+            <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/dhl.png" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/edf.png" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/cmc.png" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/sgtm.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/chococam.png" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/php.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/NHPC.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+    
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/TotalEnergies.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/CAMINEX.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/Orange.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/elecnor.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/ERAMET.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/1280px-AFD_logo.svg.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/2018e585ace58fb8logo-e7ab96e78988.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/Logo_of_Addax_Petroleum.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/2560px-Sodexo_logo.svg.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/logo_newrest-fb-li.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/Perenco-pour-illust-Moabi.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/movis.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/societe-generale-logo.png" class="img-fluid" alt="">
+                </div>
+              </div>
+
+    
+            </div>
+    
+          </div>
+        </section>
+
+        <section id="counts" class="counts">
+          <div class="container">
+
+            <div class="text-center title">
+              {{-- <h3>What we have achieved so far</h3>
+              <p>Iusto et labore modi qui sapiente xpedita tempora et aut non ipsum consequatur illo.</p> --}}
+            </div>
+
+            <div class="row counters position-relative">
+
+              <div class="col-lg-3 col-6 text-center">
+                <span class="purecounter">4,7/5</span>
+                <p>Avis clients
+                </p>
+              </div>
+
+              <div class="col-lg-3 col-6 text-center">
+                <span data-purecounter-start="0">9,4/10</span>
+                <p>Notre note pédagogique</p>
+              </div>
+
+              <div class="col-lg-3 col-6 text-center">
+                <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
+                <p>Références clients en Afrique et en France</p>
+              </div>
+
+              <div class="col-lg-3 col-6 text-center">
+                <span data-purecounter-start="0" data-purecounter-end="1000" data-purecounter-duration="1" class="purecounter">+ de</span>
+                <p>Participants formés chaque année</p>
+              </div>
+
+            </div>
+
+          </div>
+        </section>
+
+        <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+          <div class="col-lg-6">
+            <div class="info-item  d-flex flex-column justify-content-center align-items-center">
+              <i class="bi bi-map"></i>
+              <h3>Siège social</h3>
+              <p>2367 Avenue Gen. De GAULLE
+                 Bonapriso Ancien Aéroport
+                 PO. Box 3948, Douala
+                </p>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-item d-flex flex-column justify-content-center align-items-center">
+              <i class="bi bi-envelope"></i>
+              <h3>Email</h3>
+              <p>contact.projectblue@hsd-melt.com</p>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-item  d-flex flex-column justify-content-center align-items-center">
+              <i class="bi bi-telephone"></i>
+              <h3>Téléphone</h3>
+              <p>+237 6 98 84 36 68 / +237 2 33 43 04 81</p>
+            </div>
+          </div><!-- End Info Item -->
+
+        </div>
+        <div class="row gy-4 mt-1">
+
+          <div class="col-lg-6 ">
+            {{-- <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=hsd%20melt%20group&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">using google maps on your website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div> --}}
+            <iframe src="https://maps.google.com/maps?q=hsd%20melt%20group&t=&z=13&ie=UTF8&iwloc=&output=embed"  frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          </div><!-- End Google Maps -->
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row gy-4">
+                <div class="col-lg-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
+                </div>
+                <div class="col-lg-6 form-group">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre adrèsse Email" required>
+                </div>
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Sujet" required>
+              </div>
+              <div class="form-group">
+                <textarea class="form-control" name="message" rows="5" placeholder="Méssage" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Votre méssage a été envoyé. Merci!</div>
+              </div>
+              <div class="text-center"><button type="submit">Envoyer</button></div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+
 @endsection
