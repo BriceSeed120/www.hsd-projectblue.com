@@ -26,7 +26,7 @@
   
         </div>
       </section>
-    <section id="constructions" class="constructions">
+    <section id="solutions" class="constructions">
       <div class="container" data-aos="fade-up">
 
         <div class="section-header">
@@ -145,7 +145,7 @@
 
       </div>
     </section>
-    <section id="services" class="services section-bg">
+    <section id="formations" class="services section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h2>Nos Formations</h2>
@@ -444,7 +444,7 @@
           </div><!-- End Google Maps -->
 
           <div class="col-lg-6">
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+            <form action="{{route('sendMail')}}" method="post" role="form" class="php-email-form" data-aos="fade-up">
               <div class="row gy-4">
                 <div class="col-lg-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>

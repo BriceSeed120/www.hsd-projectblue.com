@@ -14,7 +14,8 @@
         <ul>
           <li><a href="#index" class="active">Accueil</a></li>
           <li><a href="#about">A propos</a></li>
-          <li><a href="#services">NOS FORMATIONS</a></li>
+          <li><a href="#solutions">NOS SOLUTIONS</a></li>
+          <li><a href="#formations">NOS FORMATIONS</a></li>
           <li><a href="#clients">NOS CLIENTS</a></li>
           <li><a href="#contact">CONTACT</a></li>
         </ul>

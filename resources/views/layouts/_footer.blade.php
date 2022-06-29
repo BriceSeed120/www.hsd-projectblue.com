@@ -6,31 +6,33 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-lg-4 col-md-6">
-            <div class="footer-info">
-              {{-- <h3>HSD ProjectBlue</h3> --}}
-              <h3><a href="{{ url("/")}}"> <img style="max-width: 300px !important"  src="/banner/projectblue-logo-blanc.png" class="img-fluid" alt=""></a></h3>
-              
-              <p>
+          <div class="col-lg-12 col-md-6">
+            <center>
+              <div class="footer-info">
+                {{-- <h3>HSD ProjectBlue</h3> --}}
+                <h3><a href="{{ url("/")}}"> <img style="max-width: 300px !important"  src="/banner/projectblue-logo-blanc.png" class="img-fluid" alt=""></a></h3>
                 
-                
-               
-                
-                2367 Avenue Gen. De GAULLE <br>
-                Bonapriso Ancien Aéroport <br>
-                PO. Box 3948, Douala
-                <br><br>
-                <strong>Phone:</strong> +237 6 98 84 36 68 / +237 2 33 43 04 81
-                <br>
-                <strong>Email:</strong> contact.projectblue@hsd-melt.com<br>
-              </p>
-              <div class="social-links d-flex mt-3">
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
-                <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
+                {{-- <p>
+                  
+                  
+                 
+                  
+                  2367 Avenue Gen. De GAULLE <br>
+                  Bonapriso Ancien Aéroport <br>
+                  PO. Box 3948, Douala
+                  <br><br>
+                  <strong>Phone:</strong> +237 6 98 84 36 68 / +237 2 33 43 04 81
+                  <br>
+                  <strong>Email:</strong> contact.projectblue@hsd-melt.com<br>
+                </p> --}}
+                {{-- <div class="social-links d-flex mt-3 text-center">
+                  <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-twitter"></i></a>
+                  <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-facebook"></i></a>
+                  <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-instagram"></i></a>
+                  <a href="#" class="d-flex align-items-center justify-content-center"><i class="bi bi-linkedin"></i></a>
+                </div> --}}
               </div>
-            </div>
+            </center>
 
         </div>
       </div>
