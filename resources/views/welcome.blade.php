@@ -43,7 +43,7 @@
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Formation certifiante ou diplômantes</h4>
+                    <h4 class="card-title">Formation certifiante ou diplômante</h4>
                     <p>13 programmes de formation, plus de 91 certifiantes ou diplômantes, vous sont proposés par HSD PROJECTBLUE.</p>
                   </div>
                 </div>
@@ -77,7 +77,7 @@
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
                     <h4 class="card-title">Formation e-learning</h4>
-                    <p>HSD PROJECTBLUE vous propose une offre de formation variée multi-supports, multi formats et multilingues pour un apprentissage encore plus efficace, à coût optimisé et accessible à tous. 
+                    <p>HSD PROJECTBLUE vous propose une offre de formation variée multisupports, multiformats et multilingues pour un apprentissage encore plus efficace, à coût optimisé et accessible à tous. 
                     </p>
                   </div>
                 </div>
@@ -93,7 +93,7 @@
                 </div>
                 <div class="col-xl-7 d-flex align-items-center">
                   <div class="card-body">
-                    <h4 class="card-title">Formation inter entreprise </h4>
+                    <h4 class="card-title">Formation inter-entreprise </h4>
                     <p>HSD PROJECTBLUE propose des formations pouvant regrouper des salariés de différentes entreprises au sein d'une même session.
                     </p>
                   </div>
@@ -148,7 +148,7 @@
     <section id="formations" class="services section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Nos Formations</h2>
+          <h2>QUELQUES THÈMES DE NOS FORMATIONS PROPOSÉES</h2>
         </div>
 
         <div class="row gy-4">
