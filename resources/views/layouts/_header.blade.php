@@ -34,7 +34,7 @@
               <div class="col-lg-6 text-center">
                 <h2 data-aos="fade-down">HSD PROJECTBLUE <span></span></h2>
                 <p data-aos="fade-up">INSTITUT DE FORMATION PROFESSIONNELLE ET DE DEVELOPPEMENT DES CAPACITES</p>
-                <a data-aos="fade-up" data-aos-delay="200" href="#get-started" class="btn-get-started">Se former maintenant !</a>
+                <a data-aos="fade-up" data-aos-delay="200" href="#formations" class="btn-get-started">Se former maintenant !</a>
               </div>
             </div>
           </div>
