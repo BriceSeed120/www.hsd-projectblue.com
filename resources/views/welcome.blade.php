@@ -423,7 +423,7 @@
             <div class="info-item d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p>contact.projectblue@hsd-melt.com</p>
+              <p>contact@hsd-projectblue.com</p>
             </div>
           </div><!-- End Info Item -->
 
@@ -450,7 +450,7 @@
                   <input type="text" name="name" class="form-control" id="name" placeholder="Votre nom" required>
                 </div>
                 <div class="col-lg-6 form-group">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre adrèsse Email" required>
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Votre adresse Email" required>
                 </div>
               </div>
               <div class="form-group">
