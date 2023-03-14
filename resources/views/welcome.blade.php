@@ -360,6 +360,21 @@
                   <img src="assets/img/clients/societe-generale-logo.png" class="img-fluid" alt="">
                 </div>
               </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/airtel.png" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/sogea.jpg" class="img-fluid" alt="">
+                </div>
+              </div>
+              <div class="col-lg-2 col-md-4 col-xs-6">
+                <div class="client-logo">
+                  <img src="assets/img/clients/olam.png" class="img-fluid" alt="">
+                </div>
+              </div>
 
     
             </div>
@@ -412,9 +427,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-map"></i>
               <h3>Siège social</h3>
-              <p>2367 Avenue Gen. De GAULLE
-                 Bonapriso Ancien Aéroport
-                 PO. Box 3948, Douala
+              <p>HSD France - Mouzon, France
                 </p>
             </div>
           </div><!-- End Info Item -->
@@ -431,7 +444,7 @@
             <div class="info-item  d-flex flex-column justify-content-center align-items-center">
               <i class="bi bi-telephone"></i>
               <h3>Téléphone</h3>
-              <p>+237 6 98 84 36 68 / +237 2 33 43 04 81</p>
+              <p>+237 6 56 82 93 90</p>
             </div>
           </div><!-- End Info Item -->
 
